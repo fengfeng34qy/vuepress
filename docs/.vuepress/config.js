@@ -20,7 +20,7 @@ module.exports = {
     }
   },
   themeConfig: {
-    repo: 'calebman/vuepress-plugin-demo-container',
+    repo: 'fengfeng34qy/vuepress',
     editLinks: false,
     docsDir: 'docs',
     locales: {
